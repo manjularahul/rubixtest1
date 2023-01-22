@@ -1,0 +1,19 @@
+{
+    "text":[
+        {
+        "name":"manjula",
+        "email":"manju@gmail.com",
+        "phonenumber":8976098765
+        },
+        {
+            "name":"priya w",
+            "email":"priiyaa@gmail.com",
+            "phonenumber":8971469432
+        },
+        {
+             "name":"ashu",
+             "email":"ashu@gmail.com",
+             "phonenumber":8971469432 
+        }
+    ]
+    }

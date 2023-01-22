@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+}
+.navbar{
+    display: flex;
+    background-color: black;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 4px solid white;
+   margin: 0px;
+
+}
+.Rimage img{
+    margin-left: 25px;
+}
+.nav_links li{
+    display: inline;
+    text-decoration: none;
+    color: white;
+    margin-right: 25px;
+    font-size: 20px;
+}
+.nav_links a{
+    color: white;
+    text-decoration: none;
+}

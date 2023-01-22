@@ -1,0 +1,15 @@
+body{
+    margin: 0px;
+}
+.r_footer{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 20px;
+   
+}
+.footer{
+    background-color:whitesmoke;
+}
+.r_footer p{
+    color: grey;
+}

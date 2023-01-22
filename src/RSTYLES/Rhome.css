@@ -1,0 +1,185 @@
+body{
+    margin: 0px;
+}
+.rhome{
+    background-color: crimson;
+    height: 200px;
+}
+.info{
+    margin: 10px 200px;
+}
+.info h1{
+    color: white;
+}
+.info p{
+    color: white;
+    font-size: 20px;
+}
+.whole_page{
+    
+    display: flex;
+  text-align: center;
+  /* margin-left: 50px; */
+    
+}
+.one{
+    background-color: white;
+    text-align: center;
+    height: 350px;
+    width: 300px;
+    border-radius: 40px;
+    box-shadow: -10px -10px 10px gray ;
+      border-left: 10px;
+}
+
+.rbtn{
+    margin: 0px;
+    font-size: 30px;
+    background-color: blue;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    
+}
+.rone{
+    border-radius: 50%;
+    font-size: 25px;
+    padding: 15px;
+    border: transparent;
+}
+.rbtn1{
+    margin: 0px;
+    margin-top: 45px;
+    background-color: blueviolet;
+    font-size: 30px;
+    border-bottom-left-radius: 28px;
+    border-bottom-right-radius:28px;
+
+
+}
+.rtwo{
+    border-radius: 50%;
+    font-size: 25px;
+    padding: 15px;
+    border: transparent;
+
+}
+.two{
+    background-color: white;
+    height: 300px;
+    width: 300px;    
+     border-radius: 30px;
+    margin-top: 40px;
+    text-align: center;
+    padding-top: 10px;
+    box-shadow: -10px 10px 10px gray;
+
+}
+
+
+
+.three{
+    background-color: white;
+    height: 350px;
+    width: 300px;
+    text-align: center;
+    border-radius: 30px;
+    box-shadow: -10px -10px 10px gray;
+}
+.rbtn2{
+    background-color: orangered;
+    margin: 0px;
+    font-size: 30px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+.rthree{
+    border-radius: 50%;
+    font-size: 25px;
+    padding: 15px;
+    border: none;
+
+}
+
+
+.four{
+    background-color: white;
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    border-radius: 30px;
+  /* border-top-left-radius: 20px;
+  border-top-right-radius: 20px; */
+    margin-top:30px;
+    padding-top: 10px;
+    box-shadow: -10px 10px 10px gray;
+}
+.rbtn3{
+    margin: 0px;
+    background-color: green;
+    margin-top: 30px;
+    font-size: 30px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    
+}
+.rfour{
+    border-radius: 50%;
+    font-size: 25px;
+    padding: 15px;
+    border: transparent;
+
+}
+
+.five{
+    background-color: white;
+    height: 350px;
+    width: 300px;
+  text-align: center;
+    border-radius: 30px;
+    box-shadow: -10px -10px 10px gray;
+}
+.rbtn4{
+    background-color: darkgoldenrod;
+    margin: 0px;
+    font-size: 30px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+.rfive{
+    font-size: 25px;
+    padding: 15px;
+    border-radius: 50%;
+    border: none;
+}
+
+.one img{
+    height: 100px;
+    width: 100px;
+    text-align: center;
+}
+.two img{
+    height: 100px;
+    width: 100px;
+}
+.three img{
+    height: 100px;
+    width: 100px;
+}
+.four img{
+    height: 100px;
+    width: 100px;
+}
+.five img{
+    height: 100px;
+    width: 100px;
+}
+.second_page{
+    background-color:gainsboro;
+   padding-left:80px;
+}
+.second_page h4{
+    text-align: center;
+    
+   font-size: 30px;
+    
+}

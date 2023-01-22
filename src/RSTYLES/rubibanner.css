@@ -1,0 +1,46 @@
+.rban_img{
+background:linear-gradient(rgba(0,0,0,0),rgba(0, 0, 0, 0.911)),url("/public/image/bac.webp");
+height:70vh;
+background-size:cover;
+  
+}
+.rban_img{
+    margin-top:0px;
+}
+.top{
+padding-top: 300px;
+padding-left: 400px;
+   
+}
+
+.future p{
+    font-size: 20px;
+    color: white;
+    
+}
+.tech1 h1{
+    margin: 0px;
+    padding: 0px;
+    color: white;
+}
+.for1 p{
+    font-size: 30px;
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    /* margin-top: 10px; */
+    
+    
+
+}
+.teen1 h1{
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    margin-left: 20px;
+}
+.abc{
+    display:flex;
+   margin-right: 10px;
+  
+}

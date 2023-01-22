@@ -1,0 +1,34 @@
+body{
+    margin: 0px;
+}
+.middle{
+    margin-top: 50px;
+    display: flex;
+   justify-content:space-around;
+}
+.images1 img{
+    height:270px;
+    width: 450px;
+    position: absolute;
+    padding: 50px 100px;
+    
+}
+.images2 img{
+
+    height:500px;
+    width:600px;
+    margin-right: 20px;
+    
+}
+.posi{
+    margin-right: 80px;
+}
+
+    
+
+.PARA p{
+    font-size: 20px;
+    
+  
+
+}
